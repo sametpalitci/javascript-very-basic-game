@@ -11,7 +11,7 @@ for (var i = 0; i < button.length; i++) {
         if (correct == "true") {
             alert("True!")
         } else {
-            alert("Wrong!");
+            alert("False!");
         }
     });
 }
